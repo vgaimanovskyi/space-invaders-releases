@@ -6,4 +6,5 @@ Prebuilt Windows and macOS zip downloads for **Space Invaders**, published from 
 
 | Version | Date | Highlights |
 |---|---|---|
+| v0.3.10 | 2026-08-11 | Windows auto-updater: the game checks GitHub Releases on startup and can download and install an update without leaving the app. |
 | v0.3.9 | 2026-08-11 | Windows auto-updater: the game checks GitHub Releases on startup and can download and install an update without leaving the app. |
