@@ -13,4 +13,5 @@ These links always point to the current latest release, so there is no need to o
 
 | Version | Date | Highlights |
 |---|---|---|
+| v0.4.1 | 2026-08-11 | macOS players now see the update-available banner too; since there's no in-app installer for macOS yet, its button opens the releases page in a browser instead of downloading. |
 | v0.3.10 | 2026-08-11 | Windows auto-updater: the game checks GitHub Releases on startup and can download and install an update without leaving the app. |
