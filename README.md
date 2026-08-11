@@ -1,4 +1,4 @@
-﻿# space-invaders-releases
+# space-invaders-releases
 
 Prebuilt Windows and macOS zip downloads for **Space Invaders**, published from the private source repository. No source code lives here.
 
